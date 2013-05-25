@@ -1,0 +1,13 @@
+{
+    "version": "0.1",
+    "name": "FireFox Test",
+    "description": "Your new awesome Open Web App",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/images/Mac_App_Store_icon.png",
+        "48": "/images/Mac_App_Store_icon.png",
+        "128": "/images/Mac_App_Store_icon.png"
+    },
+
+    "default_locale": "en"
+}
